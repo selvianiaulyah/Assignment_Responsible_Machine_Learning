@@ -1,0 +1,2 @@
+# Assignment_Responsible_Machine_Learning
+Assignment 01-G49245492-Selviani_Aulyah
